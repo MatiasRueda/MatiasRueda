@@ -9,15 +9,13 @@
 </div>
 <div align="center">
 <h1>Lenguajes y herrramientas</h1>
-<br>
-<br>
+<br><br><br><br><br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,typescript,jest,nodejs,bootstrap,java,maven,c,clojure,python,react,express,mysql,vscode&perline=8"/>
 </p>
 </div>
 <h1 align="center">Mis estadísticas</h1>
-<br>
-<br>
+<br><br><br><br><br>
 
 <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MatiasRueda&theme=slateorange&hide_border=true&border_radius=5.4&locale=es"  /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasRueda"/></p>
