@@ -2,9 +2,16 @@
 	<h1>Buenas, Soy Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1></h1>
 	 <img height="300" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 	<br><br>
-	<p>Soy un estudiante de la <b>Facultad de Ingeniería Universidad de Buenos Aires</b>, <br> estoy estudiando   <b>Licenciatura en Análisis de Sistemas</b> ( tercer año ).</p>
-	<p>Actualmente me encuentro en busca de trabajo así que no dudes en contactarte conmigo en caso de que necesites algún programador. Dispongo de tiempo completo así que el horario no es un problema para mi</p>
 </div>
+
+### 👨🏻‍💻 &nbsp;Sobre Mi
+🎓 &nbsp;Actualmente soy estudiante de la Facultad de Ingeniería Universidad de Buenos Aires.\
+❤️&nbsp;&nbsp;Me gusta mucho programar en React y Java\
+✍️ &nbsp;En mis tiempos libres, me gusta dibujar y ver series.\
+💡 &nbsp;&nbsp;No tengo problemas en aprender tecnologias nuevas.\
+✉️ &nbsp;Puedes enviarme un email a matiasrued@gmail.com y te responderé lo mas rápido que pueda. \
+:blush:&nbsp; En la actualidad, me encuentro en busca de un trabajo de tiempo completo, ya que por el momento me encuentro completamente libre. Así que si de un día para otro necesitas de un programador puede contactarme.
+
 <div align="center">
 <h1>Lenguajes y herramientas</h1>
 <br><br>
