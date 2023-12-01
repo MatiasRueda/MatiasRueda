@@ -11,13 +11,12 @@
 </p>
 </div>
 <h1 align="center">Mis estadísticas</h1>
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MatiasRueda&theme=slateorange&hide_border=true&border_radius=5.4&locale=es"/>
-```
-&nbsp;
-```
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasRueda"/>
-</p>
+
+<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MatiasRueda&theme=slateorange&hide_border=true&border_radius=5.4&locale=es"  /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasRueda"/></p>
+<br><br><br><br><br><br><br><br><br>
+
+
 <div align="center">
 <h1>Formas de contactarme</h1>
 <a href="https://www.linkedin.com/in/matias-rueda-00b787291/"><img src="https://img.shields.io/badge/-Matias%20Rueda-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
