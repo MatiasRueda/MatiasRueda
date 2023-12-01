@@ -5,12 +5,13 @@
 </div>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
-🎓 &nbsp;Actualmente soy estudiante de la Facultad de Ingeniería Universidad de Buenos Aires.\
+🎓 &nbsp;Soy estudiante de la Facultad de Ingeniería Universidad de Buenos Aires.\
 ❤️&nbsp;&nbsp;Me gusta mucho programar en React y Java\
 ✍️ &nbsp;En mis tiempos libres, me gusta dibujar y ver series.\
 💡 &nbsp;&nbsp;No tengo problemas en aprender tecnologias nuevas.\
 ✉️ &nbsp;Puedes enviarme un email a matiasrued@gmail.com y te responderé lo mas rápido que pueda. \
-:blush:&nbsp; En la actualidad, me encuentro en busca de un trabajo de tiempo completo, ya que por el momento me encuentro completamente libre. Así que si de un día para otro necesitas de un programador puede contactarme.
+:blush:&nbsp; En la actualidad, me encuentro en busca de un trabajo de tiempo completo, ya que por el momento me encuentro completamente libre. Así que si de un día para otro necesitas de un programador puedes contactarme.
+<br><br>
 
 <div align="center">
 <h1>Lenguajes y herramientas</h1>
