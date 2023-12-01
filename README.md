@@ -5,7 +5,7 @@
 </div>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
-🎓 &nbsp;Soy estudiante de la Facultad de Ingeniería Universidad de Buenos Aires.\
+🎓 &nbsp;Soy estudiante de la Facultad de Ingeniería de la Universidad de Buenos Aires.\
 ❤️&nbsp;&nbsp;Me gusta mucho programar en React y Java\
 ✍️ &nbsp;En mis tiempos libres, me gusta dibujar y ver series.\
 💡 &nbsp;&nbsp;No tengo problemas en aprender tecnologias nuevas.\
