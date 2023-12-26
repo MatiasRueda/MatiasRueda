@@ -9,7 +9,7 @@
 ❤️&nbsp;&nbsp;Me gusta mucho programar en React y Java\
 ✍️ &nbsp;En mis tiempos libres, me gusta dibujar y ver series.\
 💡 &nbsp;&nbsp;No tengo problemas en aprender tecnologias nuevas.\
-✉️ &nbsp;Puedes enviarme un email a matiasrued@gmail.com y te responderé lo mas rápido que pueda. \
+✉️ &nbsp;Puedes enviarme un email a mdrueda@fi.uba.ar y te responderé lo mas rápido que pueda. \
 :blush:&nbsp; En la actualidad, me encuentro en busca de un trabajo de tiempo completo, ya que por el momento me encuentro completamente libre. Así que si de un día para otro necesitas de un programador puedes contactarme.
 <br><br>
 
@@ -33,5 +33,5 @@
 <h1>Formas de contactarme</h1>
 <br>
 <a href="https://www.linkedin.com/in/matias-rueda-00b787291/"><img src="https://img.shields.io/badge/-Matias%20Rueda-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="matiasrued@gmail.com"><img src="https://img.shields.io/badge/-matiasrued@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mdrueda@fi.uba.ar"><img src="https://img.shields.io/badge/-mdrueda@fi.uba.ar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
